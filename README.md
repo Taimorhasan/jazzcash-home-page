@@ -1,4 +1,4 @@
-# jazzcash-home-page
+
 # JazzCash Home Page UI (Flutter)
 
 A beautifully animated home screen UI built in **Flutter**, inspired by the JazzCash Business App.  
